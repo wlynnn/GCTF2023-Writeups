@@ -1,6 +1,6 @@
-# 🌠 Girls in CTF 2023 Writeups
+# 🌠 Girls in CTF 2023 Writeups by $ /bin/cat
 
-Welcome to the Girls in CTF 2023 writeups by $ /bin/cat 🎉
+Welcome to our Girls in CTF 2023 writeups 🎉
 
 
 ## p/s: 
