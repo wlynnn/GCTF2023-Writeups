@@ -1,7 +1,7 @@
 # I Love PNG! 
 
 ## Challenge: 
-![ILovePNG](ILovePNG.png)
+![desc](desc.png)
 
 **Attachment:** Challenge.png
 
