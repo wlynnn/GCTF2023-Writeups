@@ -30,7 +30,7 @@ The info with “**URB_INTERRUPT in**” packet consists of two type of packets 
 
 ![keyboardCode](keyboardCode.png)
 
-From the data length that found in the “**Leftover Capture Data**” field can defined that it is keyboard packet as it consists of 8 bytes. Besides, for the keystroke is at the 3 bytes. Can determine the value by referring the table of key codes for the USB keyboard. The table can be found in https://www.usb.org/sites/default/files/documents/hut1_12v2.pdf.  
+From the data length that found in the “**Leftover Capture Data**” field can defined that it is keyboard packet as it consists of 8 bytes. Besides, for the keystroke is at the 3 bytes. Can determine the value by referring the table of key codes for the USB keyboard. The table can be found in https://www.usb.org/sites/default/files/documents/hut1_12v2.pdf (pg 53-59).  
 
 ![viewAllData](viewAllData.png)
 
