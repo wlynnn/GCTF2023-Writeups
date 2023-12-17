@@ -8,6 +8,11 @@ We are excited to share that our team secured **5th place** in the Girls in CTF 
 **Post from RE:HACK*
 https://x.com/rehackxyz/status/1736019803964678227?s=20
 
+## About Our Team 👥
+Our team, $ /bin/cat, is composed of the following members:
+- **k07_** (@Hueyyingk)
+- **latt3** (Me!)
+
 ## About Our Writeups 📝
 This folder presents our approach to solving the challenges. We hope that our writeups provide insights and inspiration for fellow CTF enthusiasts.
 
