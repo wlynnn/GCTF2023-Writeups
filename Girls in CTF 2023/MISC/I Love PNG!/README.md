@@ -1,6 +1,6 @@
 # I Love PNG! 
 
-## Challenge: 
+## Challenge Info: 
 ![ILovePNG](ILovePNG.png)
 
 ![Challenge](Challenge.png)
