@@ -1,9 +1,8 @@
 # I Love PNG! 
 
-## Challenge Info: 
+## Challenge: 
 ![ILovePNG](ILovePNG.png)
 
-![Challenge](Challenge.png)
 
 ## Solution: 
 Upload the PNG file to the FotoForensics website. Click on “Hidden Pixels” under Analysis, and the flag will be revealed. 
