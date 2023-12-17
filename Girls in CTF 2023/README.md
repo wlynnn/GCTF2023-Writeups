@@ -5,7 +5,7 @@ Welcome to our Girls in CTF 2023 writeups 🎉
 ## Achievements 🏆
 We are excited to share that our team secured **5th place** in the Girls in CTF 2023 competition! We also won the award for the **Best Writeups**.
 
-Post from RE:HACK
+**Post from RE:HACK*
 https://x.com/rehackxyz/status/1736019803964678227?s=20
 
 ## About Our Writeups 📝
