@@ -1,2 +1,2 @@
 # CTF-Writeups
-## & /bin/cat 
+## $ /bin/cat 
