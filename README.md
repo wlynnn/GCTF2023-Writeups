@@ -14,7 +14,7 @@ Our team, $ /bin/cat, is composed of the following members:
 - <a href="https://github.com/wlynnn" target="_blank">**latt3**</a>
 
 ## About Our Writeups 📝
-This folder presents our approach to solving the challenges. We hope that our writeups provide insights and inspiration for fellow CTF enthusiasts.
+This repository presents our approach to solving the challenges. We hope that our writeups provide insights and inspiration for fellow CTF enthusiasts.
 
 **p/s:** 
-Please note that this folder does not include all the challenges from the competition. Additionally, it's important to mention that this folder does not include the official writeups by RE:HACK; instead, it showcases a participating team's writeup.
+Please note that this repo does not include all the challenges from the competition. Additionally, it's important to mention that this repo does not include the official writeups by RE:HACK; instead, it showcases a participating team's writeup.
