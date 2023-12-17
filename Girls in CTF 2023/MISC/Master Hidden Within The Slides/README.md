@@ -3,7 +3,7 @@
 ## Challenge: 
 ![desc](desc.png)
 
-**Attachment:** challenge.pptx
+**Attachment: ** challenge.pptx
 
 ## Solution: 
 
@@ -21,7 +21,7 @@ Decode the flag from Base64.
 
 ![decodeFlag](decodeFlag.png)
 
-**Tool:** CyberChef - https://gchq.github.io/CyberChef/  
+**Tool: ** CyberChef - https://gchq.github.io/CyberChef/  
 
 ## Flag:
 GCTF{Sl1d3sss_M4staaaaaaa}  
