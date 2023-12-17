@@ -1,6 +1,8 @@
 # 🌠 Girls in CTF 2023 Writeups by $ /bin/cat
 
-Welcome to our Girls in CTF 2023 writeups 🎉
+Welcome to our Girls in CTF 2023 writeups 🎉 
+
+Explore the directories for more information!
 
 ## Achievements 🏆
 We are excited to share that our team secured **5th place** in the Girls in CTF 2023 competition! We also won the award for the **Best Writeups**.
