@@ -13,7 +13,7 @@ https://x.com/rehackxyz/status/1736019803964678227?s=20
 ## About Our Team 👥
 Our team, $ /bin/cat, is composed of the following members:
 - <a href="https://github.com/Hueyyingk" target="_blank">**k07_**</a>
-- <a href="https://github.com/wlynnn" target="_blank">**latt3**</a>
+- <a href="https://github.com/wlynnn">**latt3**</a>
 
 ## About Our Writeups 📝
 This repository presents our approach to solving the challenges. We hope that our writeups provide insights and inspiration for fellow CTF enthusiasts.
